@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+#speedometer {
+    position: absolute;
+    /* align-items: center;
+    align-content: center; */
+    left: 80px;
+    /* right: 160px; */
+    /* bottom: 1.5rem;
+    right: 1.5rem; */
+}
